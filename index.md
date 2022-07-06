@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My-Thuan's Website :D
 
 You can use the [editor on GitHub](https://github.com/FlaminHotCheewos/FlaminHotCheewos.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
